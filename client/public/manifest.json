@@ -1,0 +1,17 @@
+{
+  "name": "Fitness & Health Dashboard",
+  "short_name": "Fitness",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#ef4444",
+  "description": "Track workouts, nutrition, water intake and health goals.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
