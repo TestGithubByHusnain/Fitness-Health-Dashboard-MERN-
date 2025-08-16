@@ -64,7 +64,7 @@ fitness-health-dashboard/
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/TestGithubByHusnain/Fitness-Health-Dashboard-MERN-.git
 cd fitness-health-dashboard
 ```
 
